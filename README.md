@@ -1,6 +1,6 @@
 # Route Optimization in Kathmandu City
 
-This project demonstrates how to compute and visualize the shortest routes for driving in Kathmandu, Nepal, using OpenStreetMap (OSM) data, NetworkX, and Folium in Python. The project visualizes different types of routes (shortest time, shortest distance, and a route via a waypoint), and also includes a custom legend for easy route identification on the map.
+This project(`short_path_folium.ipynb`) demonstrates how to compute and visualize the shortest routes for driving in Kathmandu, Nepal, using OpenStreetMap (OSM) data, NetworkX, and Folium in Python. The project visualizes different types of routes (shortest time, shortest distance, and a route via a waypoint), and also includes a custom legend for easy route identification on the map.
 
 ## Features
 
@@ -53,3 +53,7 @@ You will see an interactive map showing:
 
 ## Conclusion
 This project provides a simple and effective way to visualize routing data for urban transportation systems. It demonstrates the power of combining Python libraries for spatial data analysis and interactive visualization.
+
+### Note:
+`shortpath.ipynb` is another project that demonstrates how to compute and visualize the shortest routes, but without using Folium for interactive maps.
+
